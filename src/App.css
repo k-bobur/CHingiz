@@ -1,0 +1,18 @@
+.container {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1441px;
+}
+.app-card {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-weight: bold;
+}
